@@ -22,7 +22,7 @@ int primeNo(int n)
 int main()
 {
 int f,num;
-//Readind a number from user
+//Reading a number from user
 printf("Enter any number: ");
 scanf("%d", &num);
 
